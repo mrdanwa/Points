@@ -41,4 +41,4 @@ Contributions are welcome! Please open an issue or submit a pull request if youâ
 
 ## License
 
-This project is distributed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is distributed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
