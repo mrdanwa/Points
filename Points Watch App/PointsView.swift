@@ -78,6 +78,7 @@ struct PointsView: View {
                 }
             }
             .navigationTitle("\(formattedTime())")
+            .navigationBarHidden(false)
             .navigationBarBackButtonHidden(true)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
