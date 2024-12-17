@@ -133,7 +133,7 @@ struct ContentView: View {
                     )
                 }
             }
-            .navigationBarHidden(true)
+            .navigationBarHidden(false)
         }
     }
     
