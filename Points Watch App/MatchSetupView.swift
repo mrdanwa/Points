@@ -49,6 +49,7 @@ struct MatchSetupView: View {
                 readyToStartView()
             }
         }
+        .navigationBarHidden(false)
         .onAppear {
             if sport == "Custom" {
                 currentStep = .chooseSetOption
@@ -297,3 +298,4 @@ struct MatchSetupView_Previews: PreviewProvider {
         MatchSetupView(sport: "Tennis", path: $path)
     }
 }
+
