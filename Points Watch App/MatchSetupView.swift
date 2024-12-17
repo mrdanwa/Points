@@ -298,4 +298,3 @@ struct MatchSetupView_Previews: PreviewProvider {
         MatchSetupView(sport: "Tennis", path: $path)
     }
 }
-
